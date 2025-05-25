@@ -1,16 +1,12 @@
 ## Hi there 👋
 
-  ## Languages I enjoy:
+  ## I enjoy:
     HTML 
     CSS
     Python
+    C
 
-  ## Languages I want to learn:
-    JavaScript
-    C ++ 
-    Go 
-    C#
-    .Net
+
 
 - 🔭 I’m currently working on ... My first year of ICT Bachelors 
 - 🌱 I’m currently learning ... Python
