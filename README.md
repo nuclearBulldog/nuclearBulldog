@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on ... My first year of ICT Bachelors 
-- 🌱 I’m currently learning ... JavaScript, SQL
+- 🌱 I’m currently learning ... OOP with JavaScript, and SQL
 - 💬 Ask me about ... History 
 - 📫 How to reach me: ... discord @dominatorman
 - 😄 Pronouns: ... he/him
