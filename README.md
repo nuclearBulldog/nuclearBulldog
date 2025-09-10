@@ -1,15 +1,12 @@
 ## Hi there 👋
 
   ## I enjoy:
-    HTML 
-    CSS
-    Python
     C
 
 
 
 - 🔭 I’m currently working on ... My first year of ICT Bachelors 
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... JavaScript, SQL
 - 💬 Ask me about ... History 
 - 📫 How to reach me: ... discord @dominatorman
 - 😄 Pronouns: ... he/him
